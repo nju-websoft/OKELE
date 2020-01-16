@@ -1,8 +1,8 @@
 ## Overview
 This is the source code and experimental data for fact verification, which is a probabilistic graphical model.
 
-## Datasets([GoogleDrive](https://drive.google.com/open?id=1ILH5e13O5D6JDzZK1Nlhh0wCbdH8UDxP))
-We applied the algorithms on both synthetic and real-world datasets. The following is the guide about data files:
+## Datasets ([GoogleDrive](https://drive.google.com/open?id=1ILH5e13O5D6JDzZK1Nlhh0wCbdH8UDxP))
+We apply the algorithms on both synthetic and real-world datasets. The following is the guide about data files:
 
 - `synthetic_data/:` Raw value collection files and gold standard used in the synthetic experiment.
 - `real-world_data/:` Raw value collection files and gold standard used in the real-world experiment. For each long-tail entity, properties are predicted with the property prediction model.
