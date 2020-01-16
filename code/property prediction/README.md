@@ -7,7 +7,7 @@ This is the source code and experimental data for property prediction, which is 
   - TensorFlow (>=1.12)
   - keras (>=2.2.4)
 
-## Provided Data([GoogleDrive](https://drive.google.com/open?id=1DVYmXvUnT0a-474AdpFZKaSbdMEIJFq1))
+## Provided Data ([GoogleDrive](https://drive.google.com/open?id=1DVYmXvUnT0a-474AdpFZKaSbdMEIJFq1))
 This project provides data from 10 classes, including `architecture.building`, `boats.ship`, `book.book`, `computer.software`, `film.actor`, `film.film`, `food.food`, `geography.mountain`, `medicine.drug` and `music.album`. 
 
 The original entity-property data are in the `data` directory, where the file suffix `.instances.txt` is the entity file, `.ground.truth.txt` is the ground truth file of all properties owned by entities, `.ground.truth.reserved.txt` is a file of reserved properties for property prediction and `.similarities.txt` is a file of similarity scores between entities.
