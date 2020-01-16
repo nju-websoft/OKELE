@@ -1,0 +1,7 @@
+2019-12-27 13:57:02,877 - .\log/boats.ship - INFO - property count :96
+2019-12-27 13:57:02,877 - .\log/boats.ship - INFO - entity count:1200
+2019-12-27 13:58:07,398 - .\log/boats.ship - INFO - Reading model parameters from Pretrain/boats.ship/pr.ckpt
+2019-12-27 13:58:07,454 - .\log/boats.ship - INFO - start test
+2019-12-27 13:58:07,454 - .\log/boats.ship - INFO - evaluate data:test
+2019-12-27 13:58:12,629 - .\log/boats.ship - INFO - new best test precision at 10 :0.62500
+2019-12-27 13:58:12,629 - .\log/boats.ship - INFO - new best test ndcg at 10 :0.84748

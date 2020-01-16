@@ -1,0 +1,466 @@
+
+music
+funk##funk rock
+rock music##rock##rock and roll##Rock & Roll##Rock Roll##classic rock##Pop rock
+Vocal Jazz##jazz
+Instrumental##electronic
+Salsa music##Salsa
+Country##country music
+Hip hop music##pop##Hardcore Hip-Hop##hip-hop##hip hop##hardcore hip hop
+Southern Rap##Southern hip hop
+West Coast hip hop##West Coast Rap
+Grammy Award for Best Americana Album##Grammy Award##Best Americana Album
+1986 Grammy Awards##29th Annual Grammy Awards
+2013 Grammy Awards##56th Annual Grammy Awards
+1967 Grammy Awards##10th Annual Grammy Awards
+2002 Latin Grammy Award##Latin Grammy Awards of 2002
+56th Annual Grammy Awards##56th Annual Grammy Awards
+2013 independent music awards##12th Independent Music Awards
+The 1996 Grammy Awards##38th Annual Grammy Awards##1996 Grammy Awards
+2004 Juno Award##Juno Awards of 2004
+Tupac Shakur##Shakur
+Vladimir Horowitz##Chopin Vladimir Horowitz
+Cannonball Adderley Quintet##The Cannonball Adderley Quintet
+
+
+book
+Ayn Rand##Rand Ayn##Rand, Ayn
+Janet Morris##Janet E. Morris
+Thomas Michael Gallagher##Thomas Gallagher
+Horror novel##Horror
+English Language##English##"\nEdition language: English "##Edition language: English##Edition language English
+Marjorie Priceman@en##Marjorie Priceman
+Caldecott Medal##Caldecott Medal Nominee##the Caldecott award
+World War I##World War one##First World War
+Howl's Moving Castle #1##Howl's Castle##Howl's Moving Castle 1
+Philosophical fiction##Philosophical novel
+by John Green##Green, John##Green John
+James Joyce##Joyce James
+Children's literature##Children##Childrens##Childrens Picture Books
+Carnegie Medal##Carnegie Medal in Literature##Carnegie Medal Nominee
+Dorothy Canfield Fisher Children's Book Award Nominee##Dorothy Canfield Fisher Children's Book Award##Dorothy Canfield Fisher
+James Tiptree Jr. Award##Jr. Award##James Tiptree, Jr. Award##James Tiptree
+History##European history##Historical
+Young adult novel##Young adult##Young Adult Fantasy##Young-adult fiction##Young Adult Science Fiction##Fiction##Speculative fiction##hard science fiction
+Science fiction novel##Science fiction
+Garth Nix@en##Garth Nix
+Autobiography##Biography Autobiography##Autobiography Memoir
+John Newbery Medal##Newbery Medal Nominee
+Bruce Sterling##Bruce Sterling@en##Bruce Sterling@fr##Bruce Sterling@de##Sterling
+Drowned Wednesday The Keys to the Kingdom, Book 3##Drowned Wednesday (The Keys to the Kingdom)##Drowned Wednesday##Drowned Wednesday (Keys to the Kingdom, Book 3)
+Novel##Novels
+Lee Harper##Harper Lee##Harper LeeHarper Lee##LEE, Harper
+National Book Award for Nonfiction##the National Book Awa##the National Book Award
+Mabel Louise Robinson##Mabel L. Robinson##Mabel Robinson
+Kevin T. Stein##Kevin Stein
+English Literature##Literary##English Literature##en##en@en
+Adventure##Action & Adventure##Action Adventure##Action Film
+Spy film##British spy
+the PEN/Faulkner Award twice##Wideman the 1984 PEN/Faulkner Award for Fiction##PEN/Faulkner Award for Fiction
+Locus Award Nominee for Best Novel##Locus Award for Best Science Fiction Novel##the Locus Sci-Fi awards##Locus awards
+Hugo Award for Best Novel##Hugo Award Nominee for Best Novel##the Hugo awards##Hugo Awards
+the 1951 National Book Award for Poetry##National Book Award for Poetry
+PEN/Faulkner Award for Fiction Nominee##PEN/Faulkner Award for Fiction
+The Auroras of Autumn##The auroras of autumn Poems##Auroras of Autumn
+Arthur C. Clarke Award##Arthur C. Clarke awards##Arthur C. Clarke Award Nominee
+Picture book##Picture books
+Hot Air The True Story of the First Hot-Air Balloon Ride##Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride
+My Mother is the Most Beautiful Woman in the World##
+Locus Award for Best Art Book##Locus Award for Best Short Story##Locus Award##the Locus Award
+Space opera##Soft science fiction##Science Fiction
+The Shrike##Shrike##The Shrike...more
+the second Mrs. de Winter##Mrs de Winter
+Mrs. Danvers##Danvers
+Romance novel##Romance
+Robert B. Parker##Parker Robert
+Military branch##Military##Military men
+Robert A. Heinlein##Heinlein Robert##Heinlein Robert A.##Heinlein Robert A##Robert A. Heinlein##Heinlein
+the Carnegie Medal##Carnegie Medal
+
+
+building
+September 1, 1925##1925
+Highbury, London##Highbury, London, England
+1972##26 May 1972
+Grade II##Grade II listing
+listing##Listed building
+San Antonio##In San Antonio##San Antonio San Antonio##San Antonio, Texas##San Antonio Texas
+Shopping mall##Shopping malls
+Yerevan##Malatia-Sebastia District Yerevan, Armenia##Malatia Sebastia District Yerevan Armenia
+Gothic architecture##Gothic-style##gothic##Gothic Revival##Gothic##Gothic Revival architecture##Late Gothic Revival##Neo-Gothic##Gothic fiction
+Romanesque##Romanesque architecture
+London##Travel London##Central London##London city
+484.0##484.0m##1588 ft##1,587.9 ft
+Tours Hong Kong Asia##Hong Kong, China##Hong Kong
+Adrian Smith + Gordon Gill Architecture##Adrian Smith##Gordon Gill
+1,016 ft##309.6 m##309.4##309.6m
+Hartford##West Hartford##West Hartford
+Modern architecture##Neo-futurism##sustainable architecture##Modernism##Modern
+-73.387500##-73.3875
+Michel Chartier de Lotbinière##Marquis de Lotbinière
+New York City##New York##NY
+Anglo-Saxon architecture##Anglo-Saxon
+1848-04-05##1848
+Historic house##National Historic Landmark##Landmarks & Historical Buildings
+September 6, 2001##2001
+Berks County##Berks
+700 Penn Street Reading, PA 19602##Reading, 19602, Berks County
+André and Jean Polak##André Waterkeyn
+102m##102 m##335ft##335 ft##102.0
+Rudolph Schindler##Rudolf Schindler
+Georgian Revival##Georgian Revival Architecture
+Palladian architecture##Palladian
+Lebanon, Connecticut##Connecticut##Lebanon
+art-deco##art deco
+Pomona Valley##Pomona
+Primm, Nevada##Primm##Nevada
+Chester, United States##Chester
+1724-12##1724-01-01
+Corinthian order##Corinthian
+Palace Hotel##Hotel
+1955-06-10##June 10, 1955; 63 years ago
+2013-06-10##2013-01-01
+Peabody##west Peabody
+Restaurant##Restaurants##home Restaurant
+Museum##the Museum##library
+San Antonio, Texas##San Antonio
+Renaissance##Renaissance architecture
+Louis I, Duke of Orléans##Gaston, Duke of Orléans
+Baton Rouge##Baton Rouge, Louisiana
+149.1491##149.149100
+0.004047##1 acre
+Italianate architecture##Italianate
+Beaux-Arts architecture##Beaux-Arts
+
+
+software
+GNU General Public License##GNU##GPL##GNU GPLv2 or later##GNU GPLv2##GNU GPL
+plattformunabhängig##平台独立##Cross-platform
+Instant messaging##Instant Messenger##messaging##Instant messaging client
+Microsoft Corporation##Microsoft
+Microsoft Windows##Windows##Windows 7##Windows 3.1##Windows server##windows 85##Windows 2000
+Mac OS##Mac OS X##Mac OS 7.1##OS X##macos
+Proprietary software##Proprietary##Proprietary license
+Web browser##browser##Opera browser##offline browser##Internet Browser##The Browser##mobile browser
+5.1.41 / 11 October 2018 3 months ago##3.2.2##软件版本更新了，还有其他，暂时不修改
+10 August 2005; 13 years ago##2005-08-10
+Content management system##content management##Management System##document management system
+Freeware##Free
+ZX Spectrum emulator##ZX##ZX Spectrum
+Unix-like##Unix##Unix-like with X11
+Linux##Linux kernel
+3D rendering software##Rendering engine
+Google##Google Google
+Web search engine##search engine##Search Tools
+TeamViewer GmbH, Germany##TeamViewer
+Remote desktop software##Remote administration
+Antivirus software##Antivirus
+GNU Project##the GNU Project
+VB.NET##Visual Basic .NET
+Optical disc authoring##Optical disc
+Utility software##Utility
+Project management##Project management tool
+KDE e.V.##KDE##KDE Desktop
+Opera Software##Opera
+Adobe Systems and Mozilla##Adobe Systems
+GNU Lesser General Public License##LGPL
+Mozilla Public License##MPL
+Music sequencer##music notation program##music notation
+Nintendo 64##Nintendo##Nintendo64
+Video game console emulator##emulator
+ZX Spectrum##Sinclair ZX Spectrum
+3D rendering software##3D computer graphics software##3D computer graphics
+Assembly language##Assembly
+OpenBSD Project##the OpenBSD Project
+ISC license##ISC
+BSD Licenses##BSD##GPL BSD
+XenSource Inc.##XenSource
+hardware virtualization##virtualization
+Python Programming Language Interpreter]##Interpreter
+Apache License 2.0##Apache License
+
+
+
+film
+United States of America##USA##America##United States##African American
+Italian Language##Italian
+Russian Language##Russian
+R##Rated R for some language.##Rated R for some language##R (USA)##R (for strong violence##Rated R for strong violence##18+ (RU)##Rated R for sexuality and nudity##Rated R for sexuality and nudity.##Rated R for a substantial amount of strong bloody violence##Rated R for language including some sexual references.
+G (USA)##G
+Compositor##digital Compositor
+key makeup artist##makeup artist
+key hair stylist##hair stylist##department head hair / hair stylist
+romantic drama##drama##drama film##Drama/Comedy
+Romance Film##Romance##Romantic Dramas##Romantic Movies##romantic drama
+Gaumont Distribution##Gaumont Film Company
+Universal Studios##Universal Pictures
+United Kingdom##UK##British
+Canadian##Canada
+PG-13 (USA)##PG-13##PG 13 for Moments of intense violence and sexual content.
+PG##PG (USA)##Rated PG for fantasy action and mild language##Rated PG for thematic elements and brief language.
+Children's/Family##Kids Family
+Family##classic family
+Dallas–Fort Worth Film Critics Association Award for Best Actress##DFWFCA Award for Best Actress
+DGC Award for Team Feature Film##DGC Team Award for Feature Film
+Artios Award for Best Casting for Feature Film, Independent##Artios for Best Independent Feature Film Casting
+Washington D.C. Area Film Critics Association Award for Best Actress##WAFCA Award for Best Actress
+Academy Award for Best Actress##Oscar for Best Performance by an Actress in a Leading Role
+Academy Award for Best Writing Adapted Screenplay##Oscar for Best Writing, Adapted Screenplay
+NYFCC Award for Best First Film##New York Film Critics Circle Award for Best First Film
+Online Film Critics Society Award for Best Actress##OFCS Award for Best Actress
+Online Film Critics Society Award for Best Breakthrough Filmmaker##OFCS Award for Best Breakthrough Filmmaker
+Phoenix Film Critics Society Award for Best Actress##PFCS Award for Best Performance by an Actress in a Leading Role
+Lions Gate Films##Lions Gate Films Inc##Lions Gate Entertainment
+Independent Dramas##Canadian independent drama
+Independent Movies##independent
+65th Golden Globe Awards##2008 Golden Globes USA
+28th Genie Awards##2008 Genie Awards
+13th Critics' Choice Awards##2007 Critics' Choice Movie Awards
+61st British Academy Film Awards##2008 British Academy Film Awards
+14th Screen Actors Guild Awards##2008 Screen Actors Guild Awards
+12th Satellite Awards##2007 Satellite Award
+80th Academy Awards##2008 Academy Awards USA
+31st Golden Globe Awards##1974 Golden Globe Awards##Golden Globes USA
+18th Critics' Choice Awards##2012 Critics' Choice Movie Awards
+Writers Guild of America Awards 2012##Writers Guild of America USA
+Crime Fiction##crime
+American science fiction thriller##Science Fiction##Sci-Fi##Sci-Fi & Fantasy##Science Fiction Fantasy##Sci-Fi Fantasy##Fantasy Fiction##Fiction
+Action Film##action##Action/Adventure##Action Adventure
+39th People's Choice Awards##2013 People's Choice Awards
+Writers Guild of America Awards 1973##Writers Guild of America USA
+26th Directors Guild of America Awards##1973 Directors Guild of America Award
+46th Academy Awards##Academy Awards USA
+1st People's Choice Awards##People's Choice Awards USA
+Italy##Italian
+Francesca Di Mottola##Francesca Balestra Di Mottola
+British Independent Film Awards 2010##2010 British Independent Film Awards
+2011 British Academy Film Awards##64th British Academy Film Awards
+83rd Academy Awards##2010 ACADEMY AWARDS##2011 Academy Awards USA
+15th Satellite Awards##2010 Satellite Award
+68th Golden Globe Awards##2011 Golden Globes USA##2011 Golden Graals
+1964 Golden Globes USA##21st Golden Globe Awards##1964 Golden Globe Awards
+Schoolgirl #1##Schoolgirl #2##Schoolgirl #3##Schoolgirl #4##Schoolgirl #5##Schoolgirl##Schoolgirl #6##Schoolgirl #7##Schoolgirl #8##Schoolgirl #9##Schoolgirl #10
+18th Academy Awards##1945 ACADEMY AWARDS
+1997 NAACP Image Award##28th NAACP Image Awards
+2000 Primetime Emmy Award##52nd Primetime Emmy Awards
+uropean Film Awards 2010##2010 uropean Film Awards
+Nika Awards 2011##2011 Nika Awards
+Metro-Goldwyn-Mayer##Metro-Goldwyn-Mayer Studios##Metro-Goldwyn-Mayer Inc.##Metro-Goldwyn-Mayer
+Robert James Kern##Robert Kern
+Television##TV
+dr_no##Dr. No
+Pvt. Toffler##Toffler
+Pvt. Reich##Reich
+Colonel Hart##Col. Hart
+Gen. Slauson##General Slauson
+Biographical##Biographical film
+Pvt. Cleaves##Cleaves
+Capt. John Boyd##Captain John Boyd##John Boyd
+Horror##horror film##gory horror
+Western black comedy horror-suspense##Black comedy
+Spanish Language##Spanish
+Washo Language##Washo
+Sound Technician##Sound Design
+Alexei Popogrebski##Aleksei Popogrebsky##Aleksey Popogrebskiy
+Alice Sénéchal##Henri Sénéchal
+discreet_charm_of_the_bourgeoisie##The Discreet Charm of the Bourgeoisie
+Twentieth Century Fox Film Corp##Twentieth Century Fox
+Foreign##Foreign Language
+iron_giant##The Iron Giant
+Martial Arts Film##Martial Arts
+Chen Man Lei##Chan Man-lui
+Ping Lam Siu##Siu Ping-lam
+Tony Leung Chiu Wai##Tony Leung Chiu-Wai##Tony Chiu-Wai Leung##Tony Leung
+Raja Uday Singh##MP/Raja Uday Singh
+1009649-hindenburg##The Hindenburg
+Universal Studios##Universal##Universal Pictures
+
+
+actor
+University of Guadalajara##University of Guadalajara, Guadalajara, Mexico
+Him/Herself##Himself##Herself
+Television Director##Director
+Betty Seinfeld##Betty
+Clara Rivera##Clara
+Panama City##Panama City Panama
+Everett High School##Everett
+Michigan State University##Michigan State##Michigan##(Lansing, Michigan)
+American football player##football player
+Gulfport Mississippi USA##Gulfport##Mississippi
+Stand-up comedian##Comedian
+Television producer##producer##Film Producer
+Guadalajara##Guadalajara Jalisco Mexico##Province of Guadalajara##Mexico
+Musician##Music Department
+Stockholm University##Attended Stockholm University, Stockholm, Sweden##Attended Stockholm University Stockholm Sweden
+Sweden, Uppsala Uppsala län Sweden##Sweden##Uppsala##Fårö Gotlands län Sweden##Uppsala Uppsala län Sweden
+attended Southwestern Law School##Southwestern Law School
+Dolly Rebecca Rose O'Connell
+Performer Actor##Actor
+Singer-songwriter##songwriter
+R&B singer##singer
+Columbia##Columbia South Carol
+Albany##Albany New York USA
+High Priestess##Emmy / Sheriff's Wife / High Priestess##Emmy Sheriff's Wife High Priestess
+Vancouver##Vancouver British Columbia Canada
+Northwestern University Law School##Northwestern University School of Law##Northwestern University
+1977 World Series Game 2##1977 World Series
+Sergio Roma##Sergio
+Actress##Actress
+new york city new york usa##New York City
+joliet ill##Joliet
+kansas city missouri usa##Kansas City
+tacoma wash##Tacoma
+madison wiscons##Madison
+billboard music award for #1 album##Billboard Music Award for Top Pop Album
+tú sólo tú##Tú Solo Tú
+adónde voy##Adonde Voy
+ooo baby baby##Ohh Baby Baby##oh baby baby##ooh baby baby
+the english patient role katharine clifton##The English Patient
+john lawrence fifield markle##John Lawrence Fifield
+goodbye my friend = adiós mi amigo##Goodbye My Friend
+love sick blues##Lovesick Blues
+nobodys##Nobody's
+when you wish upen a star##When You Wish Upon a Star
+dedicated to the the one i love##Dedicated to the One I Love
+he dark the sun##He Darked the Sun##he deared the sun
+dreams of san joaquin##Dreams of the San Joaquin
+still within the sound of my voice = continúa el sonido de mi voz##Still Within the Sound of My Voice
+sophiscated lady##Sophisticated Lady
+gritenme piedras del campo##Grítenme Piedras del Campo
+i'm gonna love##I'm Gonna Love You
+to know him is love him##To Know Him Is to Love Him##to know him is ti love him
+Mainland High School##Mainland
+North Carolina##University of North Carolina at Chapel Hill
+Oxford##University of Oxford##Oxford University
+Worcester##Worcester College, Oxford##Worcester College Oxford
+Yorba Linda##Yorba L
+author##writer
+For composing and conducting.##Omnibus For composing and conducting.
+Outstanding Individual Achievement - Classical Music-Dance Programming - Performing##Carnegie Hall The Grand Reopening Outstanding Individual Achievement - Classical Music-Dance Programming - Performing
+Bernstein: Conductor##Great Performances Bernstein Conductor Soloist and Teacher
+Bernstein at Tanglewood##Great Performances Bernstein at Tanglewood
+Samuel Joseph Bernstein##Samuel Joseph
+Jennie Bernstein##Jennie
+Tennessee##University of Tennessee
+Louisiana##New Orleans Louisiana USA
+Norristown##Norristown Pennsylvania USA
+Anchorage##Anchorage Alaska USA
+Film Score Composer##Composer
+Toronto##Toronto Ontario Canada
+Los Angeles##Los Angeles California USA
+University of Texas at Austin##Attended University of Texas
+Montrose Christian School##National Christian Academy
+Washington, D.C.##D.C.
+Junípero Serra High School##Junípero Serra
+Michigan##University of Michigan
+Computer Geek #1##Computer Geek No. 1
+Simone Callahan##Elizabeth Hurley
+Upper Ferntree Gully##Ferntree Gully Melbourne Victoria Australia
+North Eugene High School##North Eugene
+Brigham Young University##BYU
+Michelle Ainge##Michelle Toolson
+Eugene##Eugene Oregon USA
+1981 John R. Wooden Award Gala##1981 John R. Wooden awards
+Oregon##Oregon State##Oregon State University
+Skyline##Skyline High School
+Oakland##Oakland California USA
+Basketball player##Professional basketball player
+Farragut Academy High School##Farragut##Farragut Career Academy##Farragut Academy
+San Pedro de Macoris##San Pedro de Macorís##San Pedro de Macoris Dom
+Dominican Republic##Dom##Dominican
+1991##1991-01-01
+St. Joseph Notre Dame High School##Notre Dame High School##St. Joseph Notre Dame
+California##University of California##Alameda California##Attended University of California
+Omaha##Omaha Nebraska USA
+University Yale##Yale University
+Milton##173 Adams Street Milton Massachusetts##Milton Massachusetts USA
+French Canadian##Canadian province##Canadian##French-Canadian
+French-speaking Quebecer##French-speaking
+George Washington Educational Campus
+George Washington Educational Campus##George Washington##George Washington High School
+Juliana Ramirez##Juliana Monterio
+Santo Domingo##Santo Dom
+State University of New York at Oswego##Attended State University of New York
+Massapequa High Schoo##Massapequa
+Seinfeld Outstanding Comedy Series##Outstanding Comedy Series
+Barry B. Benson##Barry Bee Benson
+
+
+mountain
+Cinder cone##Cinder cones##Cinder
+Volcano##Volcanism##Volcanic fields##Volcanic field##volcanic##Stratovolcano##Complex volcano##volcano complex##Volcanic plug##shield volcano
+British Columbia##British Columbia, Canada##British
+Monte Rosa Massif##Monte Rosa##Monte Rosa Group##Monte Rosa Hut
+Tatra Mountains##High Tatra mountains
+Vang, Oppland##Oppland
+Caldera-stratovolcano##stratovolcano
+Cordillera Huayhuash##Huayhuash
+Ötztal Alps 76##Ötztal Alps##Ortler Alps
+Orlické hory##Orlické Mountains
+Europe##Europe 1
+Alps##Pennine Alps
+k.k. barrett##K. K. Barrett
+gennady popov##Gennadiy Popov
+ice_age_2##ice_age
+Ultra-prominent peak##Ultra prominent peak##Ultra##North America prominent peak 28th##Country high point##The highest point in Djibouti
+Guiana Shield##Guiana Highlands
+Everard F. im Thurn##Everard Im Thurn##Everard Thurn##Sir Everard im Thurn and accompanied
+Ultra-prominent peak##The highest point in Djibouti
+Cascade Range##Cascades##North Cascades
+Edmund T. Coleman##Edmund Coleman
+Thomas Stratton and David Ogilvy##Thomas Stratton##David Ogilvy
+Caucasus Mountains##Lesser Caucasus
+Peter Gappmayr##1832 Peter Gappmayr
+Pamir Mountains##Pamir
+2012##2011 to 2012
+Adolphus Warburton Moore##A. W. Moore
+James Eccles with Alphonse and Michel Payot##Michel Payot##James Eccles##Alphonse Payot
+2014-09-27##September 2014
+Granite dome##dome
+A.J. Gilmour and E.W.D. Holway##A.J. Gilmour##E.W.D. Holway
+G. Beetham and J. P. Maxwell##Joseph Prime Maxwell##George Beetham
+Angus McPherson##A. McPherson and party
+Jakob Leuthold and Johann Währen##Jakob Leuthold
+Hazard Stevens and P. B. Van Trump##P. B. Van Trump##Hazard Stevens
+500000.0##500,000 years
+
+food
+Gluten-free diet##Gluten-free
+
+drug
+UK POM##US ℞-only##Prescription drug##DE Prescription only##CA ℞-only
+Nedocromil sodium 20 solution/drops##Nedocromil sodium
+Ophthalmic##Nedocromil Ophthalmic
+Nonsteroidal anti-inflammatory drug##Nonsteroidal antiinflammatory drug
+Tetracycline-class Drug##Tetracycline##Tetracyclines
+Pregnancy Category D (FDA)##US D##AU D##D
+Pregnancy Category C (FDA)##US C##C##AU C
+Over-the-counter drug##US OTC
+198904-31-3##198904-31-3 Y
+Pregnancy Category X (FDA)##US X##X##AU X
+Pregnancy Category B (FDA)##US B##US B1##AU B##AU B1##B##Category B##AU B2
+US Schedule IV##Schedule IV (CSA)##CA Schedule IV##IV
+206361-99-1##206361-99-1 Y
+anti-inflammatory##Anti-Inflammatory Agents
+Respiratory agents##Respiratory Agents Miscellaneous##Respiratory System Agents
+Opioid Agonist##Opioids##Opioid
+Combunox##Combunox Generic Name
+Topoisomerase Inhibitors##Topoisomerase Inhibitor
+Thalidomide 50 capsule##Thalidomide Celgene 50 Capsule
+Ocular hypertension##Intracranial hypertension
+
+ship
+North Carolina-class battleship##battleship##North Carolina-class##battleship North Carolina
+Brooklyn Navy Yard##New York Naval Shipyard##Brooklyn##naval shipyard
+64-gun third-rate ship of the line##ship of the line##64-gun##third-rate
+Diesel-electric transmission##diesel-electric
+Tampa##Tampa, Florida
+Military Sealift Command##Military Sealift
+Transocean##Transocean s Triton Asset Leasing GmbH
+300 ihp (220 kW) compound steam engine, 1 screw##Steam engine, Sail
+United States Coast Guard##Coast Guard
+Framnæs Mekaniske Værksted##Framnæs shipyards
+South Dakota-class battleship##South Dakota–class
+Carnival Corporation and PLC.##Carnival Corporation & plc
+Tyrrhenian Sea##Mediterranean Sea Tyrrhenian
+Keelung, Taiwan##Taiwan[
