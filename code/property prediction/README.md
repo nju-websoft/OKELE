@@ -15,20 +15,19 @@ The original entity-property data are in the `data` directory, where the file su
 The pre-trained models are in the `Pretrain` directory.
 
 ## Train & Test
-The default hyper-parameters are showed in the paper.
+The default hyper-parameters are shown in the paper.
 
-1.**Train**: Run `exec.py {gpu_devices} {atten_flag}`. For example, if you want to train model with graph attention mechanism on GPU card 1, run the following command
+1. **Train**: Run `exec.py {gpu_devices} {atten_flag}`. For example, if you want to train with graph attention mechanism on GPU card 1, run the following command:
 
 	python exec.py 1 1
 	
-
 For `gpu_devices`, -1 means not using GPU. For `atten_flag`, 0 means not using graph attention mechanism, 1 is the opposite.
 
-2.**Test**: Run `python main.py --domain={classes_name} --entity_knn_number={entity_knn_number} --epochs={epochs} --attention_flag={atten_flag} --mode=test --simulate=1`. For example, if you want to test model on class `boats.ship`, run the following command
+2. **Test**: Run `python main.py --domain={classes_name} --entity_knn_number={entity_knn_number} --epochs={epochs} --attention_flag={atten_flag} --mode=test --simulate=1`. For example, if you want to test on class `boats.ship`, run the following command:
 
 	python main.py --domain=boats.ship --entity_knn_number=100 --epochs=100 --attention_flag=1 --mode=test --simulate=1
 
-3.**Prediction**: Run `python main.py --domain={classes_name} --entity_knn_number={entity_knn_number} --epochs={epochs} --attention_flag={atten_flag} --mode=test --simulate=0 `. For example, if you want to prediction model on class `boats.ship`, run the following command
+3. **Prediction**: Run `python main.py --domain={classes_name} --entity_knn_number={entity_knn_number} --epochs={epochs} --attention_flag={atten_flag} --mode=test --simulate=0 `. For example, if you want to predict on class `boats.ship`, run the following command:
 
 	python main.py --domain=boats.ship --entity_knn_number=100 --epochs=100 --attention_flag=1 --mode=test --simulate=0
 
